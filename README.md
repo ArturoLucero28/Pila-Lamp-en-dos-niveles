@@ -6,6 +6,10 @@ Creamos un archivo vagrant y lo configuramos de la siguiente manera: Vagrant ini
 
 configuramos dos maquinas una para el apache y otra para el sql con debian 11, configurando a cada una sus respectivas ip
 Levantamos las maquinas con vagrant up
+para este codigo vagrant hay que añadir
+ arturoapache.vm.provision "shell", path: "scriptapache.sh" 
+ en la maquina apache y:
+  arturosql.vm.provision "shell", path: "scriptsql.sh"
 
 en local me funciona el mismo vagranfile que me da error en promox, asique continuare en local
 
