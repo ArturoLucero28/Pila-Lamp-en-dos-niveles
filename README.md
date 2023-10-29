@@ -1,4 +1,7 @@
 # Pila-Lamp-en-dos-niveles
+
+CONFIGURACION BASICA 
+
 practica Pila Lamp en dos niveles
 Empezamos metiendonos al promox y ahi creamos un directorio para que podamos trabajar ordenados.
 Creamos un archivo vagrant y lo configuramos de la siguiente manera: Vagrant init(y con una nano entramos al archivo)
@@ -13,7 +16,7 @@ para este codigo vagrant hay que añadir
 
 en local me funciona el mismo vagranfile que me da error en promox, asique continuare en local
 
- #SQL
+CONFIGURACION SQL
  
 entramos con vagrant ssh arturosql
 realizamos un update y upgrate
@@ -28,7 +31,8 @@ y creamos usuario con privilegios
 
 clonamos https://github.com/josejuansanchez/iaw-practica-lamp.git con sudo git clone https://github.com/josejuansanchez/iaw-practica-lamp.git
 
-#apache
+CONFIGURACION DE APACHE
+
 luego entramos vagrant ssh arturoapache y realizamos tambien un sudo apt y upgrade
 ![image](https://github.com/ArturoLucero28/Pila-Lamp-en-dos-niveles/assets/146435794/b228c6b8-43a5-4fdb-bf96-79f23008b0bd)
 
