@@ -41,6 +41,8 @@ configuracion el sudo nano config.php de cd /var/www/LDN/
 ![image](https://github.com/ArturoLucero28/Pila-Lamp-en-dos-niveles/assets/146435794/b1aa8941-69f2-419c-ab41-9668bf23aec5)
 
 Instalamos el mysql-client con sudo apt install -y default-mysql-client.
+![image](https://github.com/ArturoLucero28/Pila-Lamp-en-dos-niveles/assets/146435794/3e691efb-723f-49d6-811c-54dae42c9a04)
+
 la pagina lamp
 ![image](https://github.com/ArturoLucero28/Pila-Lamp-en-dos-niveles/assets/146435794/2a51a9bd-707d-4576-bc50-5b970bbdcec3)
 
